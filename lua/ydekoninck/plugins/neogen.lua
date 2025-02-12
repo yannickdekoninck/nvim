@@ -9,7 +9,7 @@ return {
 			languages = {
 				python = {
 					template = {
-						annotation_convention = "google"
+						annotation_convention = "reST"
 
 					}
 
